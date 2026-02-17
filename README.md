@@ -2,6 +2,6 @@
 
 ## Integrantes del equipo
 
-- *Rogelio Martínez Díaz*
--
+- *Martínez Díaz Rogelio*
+- *Ochoa Ortiz Eric David*
 -
