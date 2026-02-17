@@ -2,6 +2,6 @@
 
 ## Integrantes del equipo
 
--*Rogelio Martínez Díaz*
+- *Rogelio Martínez Díaz*
 -
 -
