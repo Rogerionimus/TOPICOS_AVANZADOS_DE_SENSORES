@@ -4,4 +4,4 @@
 
 - *Martínez Díaz Rogelio*
 - *Ochoa Ortiz Eric David*
-- *Ruvalcaba Galván Arturo Damian *
+- *Ruvalcaba Galván Arturo Damian*
