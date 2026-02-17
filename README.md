@@ -1,6 +1,7 @@
-#REPOSITORIO
+# REPOSITORIO
 
-##Integrantes del equipo:
+## Integrantes del equipo
+
 -*Rogelio Martínez Díaz*
 -
 -
